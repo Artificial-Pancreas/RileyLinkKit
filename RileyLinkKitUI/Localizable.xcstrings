@@ -10,12 +10,6 @@
             "value" : "%@ ديسيبل"
           }
         },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ dB"
-          }
-        },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130,12 +124,6 @@
             "value" : "%@ dB"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ dB"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -148,12 +136,6 @@
       "comment" : "Unit format string for an value in percent",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%@%%"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "%@%%"
@@ -273,12 +255,6 @@
             "value" : "%@%%"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%@%%"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -291,12 +267,6 @@
       "comment" : "The title of the section for alerts",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Alert"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Alert"
@@ -416,12 +386,6 @@
             "value" : "Cảnh báo"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Alert"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -434,12 +398,6 @@
       "comment" : "Text indicating LED Mode is auto",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Auto"
@@ -559,12 +517,6 @@
             "value" : "Tự động"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Auto"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -577,12 +529,6 @@
       "comment" : "The title of the cell showing battery level",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery level"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Battery level"
@@ -702,12 +648,6 @@
             "value" : "Mức pin"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery level"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -721,12 +661,6 @@
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Commands"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Commands"
@@ -852,12 +786,6 @@
             "value" : "Các câu lệnh"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Commands"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -870,12 +798,6 @@
       "comment" : "The connected state",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connected"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connected"
@@ -995,12 +917,6 @@
             "value" : "Đã kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connected"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1013,12 +929,6 @@
       "comment" : "The in-progress connecting state",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connecting"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connecting"
@@ -1138,12 +1048,6 @@
             "value" : "Đang kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connecting"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1156,12 +1060,6 @@
       "comment" : "The title of the cell for connection LED",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection LED"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection LED"
@@ -1281,12 +1179,6 @@
             "value" : "Đèn báo kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection LED"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1299,12 +1191,6 @@
       "comment" : "The title of the section for connection monitoring",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection Monitoring"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection Monitoring"
@@ -1424,12 +1310,6 @@
             "value" : "Giám sát kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection Monitoring"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1445,12 +1325,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "حالة الإتصال"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection State"
           }
         },
         "da" : {
@@ -1567,12 +1441,6 @@
             "value" : "Tình trạng Kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection State"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1585,12 +1453,6 @@
       "comment" : "The title of the cell for connection vibration",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection Vibration"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Connection Vibration"
@@ -1710,12 +1572,6 @@
             "value" : "Báo rung khi kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Connection Vibration"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -1728,12 +1584,6 @@
       "comment" : "The title of the section describing the device",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Device"
@@ -1853,12 +1703,6 @@
             "value" : "Thiết bị"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Device"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1874,12 +1718,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "الأجهزة"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Devices"
           }
         },
         "da" : {
@@ -1996,12 +1834,6 @@
             "value" : "Thiết bị"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Devices"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2014,12 +1846,6 @@
       "comment" : "The disconnected state",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnected"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Disconnected"
@@ -2139,12 +1965,6 @@
             "value" : "Đã ngắt kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnected"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2157,12 +1977,6 @@
       "comment" : "The in-progress disconnecting state",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnecting"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Disconnecting"
@@ -2282,12 +2096,6 @@
             "value" : "Đang ngắt kết nối"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnecting"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2300,12 +2108,6 @@
       "comment" : "The title of the cell for sounding device finding piezo",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Find Device"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Find Device"
@@ -2425,12 +2227,6 @@
             "value" : "Tìm kiếm thiết bị"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Find Device"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2446,12 +2242,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "البرنامج الثابت"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Firmware"
           }
         },
         "da" : {
@@ -2568,12 +2358,6 @@
             "value" : "Phần mềm"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Firmware"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2586,12 +2370,6 @@
       "comment" : "The title of the cell showing current rileylink frequency",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Frequency"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Frequency"
@@ -2711,12 +2489,6 @@
             "value" : "Tần số"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Frequency"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2729,12 +2501,6 @@
       "comment" : "The title of the command to fetch RileyLink statistics",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Get RileyLink Statistics"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Get RileyLink Statistics"
@@ -2854,12 +2620,6 @@
             "value" : "Các thống kê của RileyLink"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Get RileyLink Statistics"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -2872,12 +2632,6 @@
       "comment" : "Progress message for getting statistics.",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Get Statistics…"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Get Statistics…"
@@ -2997,12 +2751,6 @@
             "value" : "Lấy các thống kê…"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Get Statistics…"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3015,12 +2763,6 @@
       "comment" : "The title of the cell showing Lighten Red LED",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Lighten Red LED"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Lighten Red LED"
@@ -3140,12 +2882,6 @@
             "value" : "Sáng đèn LED Đỏ"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Lighten Red LED"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3158,12 +2894,6 @@
       "comment" : "The title of the cell showing Lighten Yellow LED",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Lighten Yellow LED"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Lighten Yellow LED"
@@ -3283,12 +3013,6 @@
             "value" : "Sáng đèn Vàng"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Lighten Yellow LED"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3301,12 +3025,6 @@
       "comment" : "The title of the cell showing battery level",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Battery Alert"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Low Battery Alert"
@@ -3426,12 +3144,6 @@
             "value" : "Cảnh báo pin yếu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Battery Alert"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3447,12 +3159,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "الاسم"
-          }
-        },
-        "ce" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Name"
           }
         },
         "da" : {
@@ -3569,12 +3275,6 @@
             "value" : "Tên"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Name"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3587,12 +3287,6 @@
       "comment" : "Detail text when battery alert disabled.\nText indicating LED Mode is off",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Off"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Off"
@@ -3712,12 +3406,6 @@
             "value" : "Tắt"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Off"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -3730,12 +3418,6 @@
       "comment" : "Text indicating LED Mode is on",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "On"
@@ -3855,12 +3537,6 @@
             "value" : "Bật"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "On"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3873,12 +3549,6 @@
       "comment" : "RileyLink setup description",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
@@ -3998,12 +3668,6 @@
             "value" : "RileyLink cho phép giao tiếp với bơm thông qua chuẩn kết nối bluetooth năng lượng thấp."
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "RileyLink allows for communication with the pump over Bluetooth Low Energy."
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4016,12 +3680,6 @@
       "comment" : "The title of the cell showing BLE signal strength (RSSI)",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Signal Strength"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Signal Strength"
@@ -4141,12 +3799,6 @@
             "value" : "Cường độ tín hiệu"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Signal Strength"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4159,12 +3811,6 @@
       "comment" : "The title of the section for orangelink commands\nThe title of the section for rileylink commands",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Test Commands"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Test Commands"
@@ -4284,12 +3930,6 @@
             "value" : "Kiểm tra câu lệnh"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Test Commands"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4302,12 +3942,6 @@
       "comment" : "The title of the cell showing Test Vibration",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Test Vibration"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Test Vibration"
@@ -4427,12 +4061,6 @@
             "value" : "Kiểm tra độ rung"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Test Vibration"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4445,12 +4073,6 @@
       "comment" : "The title of the command to update diagnostic LEDs",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Diagnostic LEDs"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Toggle Diagnostic LEDs"
@@ -4570,12 +4192,6 @@
             "value" : "Cho phép chuẩn đoán LEDs"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Toggle Diagnostic LEDs"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4588,12 +4204,6 @@
       "comment" : "Progress message for changing diagnostic LED mode",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Updating diagnostic LEDs mode"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Updating diagnostic LEDs mode"
@@ -4713,12 +4323,6 @@
             "value" : "Cập nhật chế độ đèn LED chẩn đoán"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Updating diagnostic LEDs mode"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4731,12 +4335,6 @@
       "comment" : "The title of the cell showing uptime",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Uptime"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Uptime"
@@ -4856,12 +4454,6 @@
             "value" : "Thời gian hoạt động"
           }
         },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Uptime"
-          }
-        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "new",
@@ -4874,12 +4466,6 @@
       "comment" : "The title of the cell showing ORL",
       "localizations" : {
         "ar" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Voltage"
-          }
-        },
-        "ce" : {
           "stringUnit" : {
             "state" : "new",
             "value" : "Voltage"
@@ -4997,12 +4583,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Điện áp"
-          }
-        },
-        "yy-YY" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Voltage"
           }
         },
         "zh-Hans" : {
