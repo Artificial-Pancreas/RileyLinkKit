@@ -638,8 +638,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery level"
+            "state" : "translated",
+            "value" : "Nivelul bateriei"
           }
         },
         "ru" : {
@@ -680,8 +680,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Battery level"
+            "state" : "translated",
+            "value" : "电量"
           }
         }
       }
@@ -835,7 +835,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Connected"
+          }
+        },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Connected"
           }
         },
@@ -919,8 +925,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connected"
+            "state" : "translated",
+            "value" : "Conectat"
           }
         },
         "ru" : {
@@ -972,7 +978,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Connecting"
+          }
+        },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Connecting"
           }
         },
@@ -1014,7 +1026,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Connecting"
           }
         },
@@ -1056,8 +1068,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Connecting"
+            "state" : "translated",
+            "value" : "Se conectează"
           }
         },
         "ru" : {
@@ -1931,7 +1943,13 @@
       "localizations" : {
         "ar" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
+            "value" : "Disconnected"
+          }
+        },
+        "ce" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "Disconnected"
           }
         },
@@ -1973,7 +1991,7 @@
         },
         "hu" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Disconnected"
           }
         },
@@ -2015,8 +2033,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disconnected"
+            "state" : "translated",
+            "value" : "Deconectat"
           }
         },
         "ru" : {
@@ -3522,8 +3540,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Off"
+            "state" : "translated",
+            "value" : "Oprit"
           }
         },
         "ru" : {
@@ -3564,8 +3582,8 @@
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Off"
+            "state" : "translated",
+            "value" : "关"
           }
         }
       }
@@ -3659,8 +3677,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "On"
+            "state" : "translated",
+            "value" : "Pornit"
           }
         },
         "ru" : {
